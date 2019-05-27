@@ -1,6 +1,6 @@
 ---
 ---
-title: Why InfoSec?
+Why InfoSec?
 
 Being in IT for over a decade, and in recent years a Systems Administrator, there is a critical and fundamental need to ensure the data of my organization is safe from external (and internal) unauthorized access. Being able to detect threats and intrusions is the reason I’ve decided to prioritize my personal development in the area of InfoSec. I can’t afford to be ignorant when it comes to security - nobody can. There’s no worse feeling than the feeling of being vulnerable and helpless when your data has been compromised and you don’t know what to do besides change your password. Please! I want to know the origin and method of the attack and what information was collected. Additionally, I’d also like to have some fun…
 
