@@ -1,3 +1,7 @@
+
+
+
+
 Being in IT for over a decade, and in recent years a Systems Administrator, there is a critical and fundamental need to ensure the data of my organization is safe from external (and internal) unauthorized access. Being able to detect threats and intrusions is the reason I’ve decided to prioritize my personal development in the area of InfoSec. 
 
 Why InfoSec? 
