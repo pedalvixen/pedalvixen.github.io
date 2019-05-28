@@ -2,7 +2,7 @@ Being in IT for over a decade, and in recent years a Systems Administrator, ther
 
 Why InfoSec? 
 
-Because I can’t afford to be ignorant when it comes to security - nobody can. Being vulnerable and helpless when your data has been compromised and you don’t know what to do besides change your password isn't enough. I want to know the origin and method of the attack and what information was collected. I want to be ahead of it and not a victim.  Additionally, I’d also like to have some fun…
+Because I can’t afford to be ignorant when it comes to security. Being vulnerable and helpless when your data has been compromised and you don’t know what to do besides change your password isn't enough. I want to know the origin and method of the attack and what information was collected. Arming myself with the right knowledge is the best defense against cyber threats, plus it's cool to know these things! Sure I want to learn how to protect myself and any organization I've been blessed with the responsibility of managing, but really, I want to have fun too. 
 
 These are a few things I’d like to accomplish in the next 12 months:
 
