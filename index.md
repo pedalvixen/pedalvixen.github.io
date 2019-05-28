@@ -1,5 +1,4 @@
     
-  
 Being in IT for over a decade, and in recent years a Systems Administrator, there is a critical and fundamental need to ensure the data of my organization is safe from external (and internal) unauthorized access. Being able to detect threats and intrusions is the reason I’ve decided to prioritize my personal development in the area of InfoSec. 
   
 Why InfoSec?
@@ -13,3 +12,6 @@ These are a few things I’d like to accomplish in the next 12 months:
   - Use my iPhone’s NFC reader for more than Apple Pay - I want to use it as my badge to unlock my door at work on days I forget my badge. 
 
   - Build a LAMP web server with WordPress using a Raspberry Pi . Bonus points: Include an AI chatbot.
+  
+  
+  To chronicle my journey, I've created this blog. 
