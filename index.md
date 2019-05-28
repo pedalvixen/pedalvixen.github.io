@@ -11,5 +11,3 @@ These are a few things I’d like to accomplish in the next 12 months:
   - Use my iPhone’s NFC reader for more than Apple Pay - I want to use it as my badge to unlock my door at work on days I forget my badge. 
 
   - Build a LAMP web server with WordPress using a Raspberry Pi . Bonus points: Include an AI chatbot.
- 
-
