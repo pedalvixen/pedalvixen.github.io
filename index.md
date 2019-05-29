@@ -1,3 +1,0 @@
-title: PedalVixen's Blog
-description: Journey of a noobula boobula working their way through learning to navigate the InfoSexy world.  
-Be sure to bookmark this page to follow my progress!
